@@ -1,6 +1,6 @@
 Hello everyone!
 My name is Darsh Asawa.
 I am 21 years old.
-I live in Gurgaon, Haryana.
+I live in Gurgaon, Haryana -122003.
 I am a DevOps trainee at To The New, Noida.
 I am under a 6 months bootcamp training.
